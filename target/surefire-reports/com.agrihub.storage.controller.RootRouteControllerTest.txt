@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.agrihub.storage.controller.RootRouteControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.712 s -- in com.agrihub.storage.controller.RootRouteControllerTest

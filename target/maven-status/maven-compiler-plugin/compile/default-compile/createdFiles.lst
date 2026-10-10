@@ -5,10 +5,10 @@ com\agrihub\storage\entity\ColdStorageFacility$ColdStorageFacilityBuilder.class
 com\agrihub\storage\entity\StorageCompartment.class
 com\agrihub\storage\entity\SpaceBooking$SpaceBookingBuilder.class
 com\agrihub\storage\config\CorsConfig.class
-com\agrihub\storage\config\CorsConfig$1.class
 com\agrihub\storage\repository\SpaceBookingRepository.class
 com\agrihub\storage\entity\SpaceBooking.class
 com\agrihub\storage\entity\ColdStorageFacility.class
 com\agrihub\storage\repository\ColdStorageFacilityRepository.class
+com\agrihub\storage\controller\AppController.class
 com\agrihub\storage\DataInitializer.class
 com\agrihub\storage\controller\FacilityController.class
